@@ -1,0 +1,1 @@
+# Exercicio052.py
